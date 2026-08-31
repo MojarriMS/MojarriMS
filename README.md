@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Mojarri!
+# 👋 Olá, eu sou a Mojarri!
 
 🎓 Estudante de Desenvolvimento de Sistemas
 
